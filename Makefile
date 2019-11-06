@@ -1,6 +1,10 @@
 VERSION = 4
 PATCHLEVEL = 9
+<<<<<<< HEAD
 SUBLEVEL = 197
+=======
+SUBLEVEL = 199
+>>>>>>> 352b498db844... Linux 4.9.199
 EXTRAVERSION =
 NAME = Roaring Lionus
 
